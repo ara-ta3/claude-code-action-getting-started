@@ -1,0 +1,16 @@
+{
+  "name": "claude-code-action-getting-started",
+  "version": "1.0.0",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ara-ta3/claude-code-action-getting-started.git"
+  },
+  "license": "ISC",
+  "scripts": {
+    "test": "node sample.test.js"
+  },
+  "devDependencies": {
+    "uvu": "^0.5.6"
+  }
+}
